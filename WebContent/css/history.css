@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+h4,h5{
+	border-bottom:1px solid #3e3e3e; 
+}
+h5{
+	width: 35%;
+}
+.histroy{
+	height: 300px;
+}

@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+.bottom-slant-gray:after  {
+	-webkit-transform: skewY(0);
+	-ms-transform: skewY(0);
+	transform: skewY(0);
+}

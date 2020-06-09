@@ -1,0 +1,16 @@
+@charset "UTF-8";
+<!--mb-->
+.myboard {
+	visibility: visible; 
+}
+
+<!--mc-->
+.mycomment {
+	visibility: hidden;
+	height: 0;
+}
+<!--mcu-->
+.mycontact {
+	visibility: hidden;
+	height: 0;
+}
